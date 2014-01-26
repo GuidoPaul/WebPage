@@ -1,0 +1,57 @@
+BODY {
+	FONT: 12px/18px ??,Arial; COLOR: #000000; TEXT-DECORATION: none
+}
+TD {
+	FONT: 12px/18px ??,Arial; COLOR: #000000; TEXT-DECORATION: none
+}
+P {
+	FONT: 12px/18px ??,Arial; COLOR: #000000; TEXT-DECORATION: none
+}
+DIV {
+	FONT: 12px/18px ??,Arial; COLOR: #000000; TEXT-DECORATION: none
+}
+A {
+	FONT: 12px/18px ??,Arial; COLOR: #000000; TEXT-DECORATION: none
+}
+.lan {
+	FONT-SIZE: 12px; COLOR: #011f8d; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体", "sans-serif", "Arial"; TEXT-DECORATION: none
+}
+A.lan {
+	FONT-SIZE: 12px; COLOR: #011f8d; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体", "sans-serif", "Arial"; TEXT-DECORATION: none
+}
+.lanc {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #011f8d; FONT-FAMILY: "宋体", "sans-serif", "Arial"
+}
+.huangcbj {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff5a00; FONT-FAMILY: "宋体", "sans-serif", "Arial"; BACKGROUND-COLOR: #feebb1
+}
+.huang {
+	FONT-SIZE: 12px; COLOR: #ff5a00; FONT-FAMILY: "宋体", "sans-serif", "Arial"
+}
+.huangc {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff5a00; FONT-FAMILY: "宋体", "sans-serif", "Arial"
+}
+.lv {
+	FONT-SIZE: 12px; COLOR: #036533; FONT-FAMILY: "宋体", "sans-serif", "Arial"
+}
+.bai {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "宋体", "sans-serif", "Arial"; TEXT-DECORATION: none
+}
+.hui {
+	FONT-SIZE: 12px; COLOR: #373737; FONT-FAMILY: "宋体", "sans-serif", "Arial"
+}
+.img-border {
+	BORDER-RIGHT: #d8ecfd 4px solid; BORDER-TOP: #d8ecfd 4px solid; BORDER-LEFT: #d8ecfd 4px solid; BORDER-BOTTOM: #d8ecfd 4px solid
+}
+.img-borderhui {
+	BORDER-RIGHT: #c8c8c8 3px solid; BORDER-TOP: #c8c8c8 3px solid; BORDER-LEFT: #c8c8c8 3px solid; BORDER-BOTTOM: #c8c8c8 3px solid
+}
+.img-borderhe {
+	BORDER-RIGHT: #78693e 1px solid; BORDER-TOP: #78693e 1px solid; BORDER-LEFT: #78693e 1px solid; BORDER-BOTTOM: #78693e 1px solid
+}
+.huanghx {
+	FONT-SIZE: 12px; COLOR: #ff5a00; FONT-FAMILY: "宋体", "sans-serif", "Arial"; TEXT-DECORATION: underline
+}
+A.text {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体", "sans-serif", "Arial"
+}
