@@ -1,0 +1,116 @@
+body {
+	margin:0px;
+	padding:0px;
+	font:12px Arial,宋体;
+	text-align:center;	/* IE居中1 */
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	width:791px;
+	text-align:left;  /* IE居中2 */
+}
+
+#header {
+	float:left;
+	width:100%;
+}
+
+#main {
+	float:left;
+	width:100%;
+}
+
+#main .leftbox {
+	float:left;
+	width:209px;
+}
+
+.leftbox .left {
+	float:left;
+	width:100%;
+	height:200px;
+	background:#E6E6FA;
+}
+
+ul {
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+li {
+	width:100%;
+	line-height:20px;
+	text-align:left;
+}
+
+li a {
+	text-decoration:none;
+	background:url(../images/an01.gif) no-repeat 0 center;
+	padding-left:15px;
+}
+
+#main .rightbox {
+	float:right;
+	width:547px;
+}
+
+.rightbox .righttop {
+	float:right;
+	width:100%;
+	height:305px;
+}
+
+.righttop li {
+	float:left;
+	width:109px;
+	height:100%;
+	line-height:28px;
+	text-align:center;
+	background:#E6E6FA;
+}
+
+.righttop .show {
+	float:left;
+	width:105px;
+	height:105px;
+}
+
+.rightbox .knowledge {
+	float:left;
+	width:260px;
+	height:305px;
+	background:#E6E6FA;
+}
+
+.rightbox .dynamic {
+	float:right;
+	width:264px;
+	height:305px;
+	background:#E6E6FA;
+}
+
+#footer {
+	float:left;
+	width:100%;
+	height:50px;
+	background:green;
+}
+
+#footer h3 {
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	line-height:50px;
+}
+
+.nav {
+	float:left;
+	width:100%;
+	height:5px;
+	clear:both;
+	overflow:hidden;  /* IE分割条最小18px */
+}
+
