@@ -29,8 +29,8 @@ body {
 
 .leftbox .left {
 	float:left;
-	width:100%;
-	height:200px;
+	width:209px;
+	height:210px;
 	background:#E6E6FA;
 }
 
@@ -40,16 +40,15 @@ ul {
 	list-style:none;
 }
 
-li {
+.left li, .knowledge li, .dynamic li{
 	width:100%;
 	line-height:20px;
-	text-align:left;
+	padding-left:20px;
+	background:url(../images/an01.gif) no-repeat 0 4px;
 }
 
-li a {
+.left li a {
 	text-decoration:none;
-	background:url(../images/an01.gif) no-repeat 0 center;
-	padding-left:15px;
 }
 
 #main .rightbox {
@@ -66,16 +65,25 @@ li a {
 .righttop li {
 	float:left;
 	width:109px;
-	height:100%;
-	line-height:28px;
-	text-align:center;
+	height:150px;
+	line-height:150px;
+	text-align:center;  /* temp */
 	background:#E6E6FA;
 }
 
 .righttop .show {
 	float:left;
-	width:105px;
-	height:105px;
+	width:109px;
+	height:109px;
+}
+
+.righttop h3 {
+	float:left;
+	margin:0px;
+	padding:0px;
+	width:109px;
+	text-align:center;
+	line-height:50px;
 }
 
 .rightbox .knowledge {
